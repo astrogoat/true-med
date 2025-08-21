@@ -2,9 +2,9 @@
 
 namespace Astrogoat\TrueMed\Tests;
 
+use Astrogoat\TrueMed\TrueMedServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Astrogoat\TrueMed\TrueMedServiceProvider;
 
 class TestCase extends Orchestra
 {

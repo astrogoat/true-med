@@ -2,10 +2,10 @@
 
 namespace Astrogoat\TrueMed;
 
+use Astrogoat\TrueMed\Settings\TrueMedSettings;
 use Helix\Lego\Apps\App;
 use Helix\Lego\Apps\AppPackageServiceProvider;
 use Spatie\LaravelPackageTools\Package;
-use Astrogoat\TrueMed\Settings\TrueMedSettings;
 
 class TrueMedServiceProvider extends AppPackageServiceProvider
 {
