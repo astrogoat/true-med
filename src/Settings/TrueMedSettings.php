@@ -7,7 +7,7 @@ use Illuminate\Validation\Rule;
 
 class TrueMedSettings extends AppSettings
 {
-     public string $id;
+    public string $id;
 
     public function rules(): array
     {
